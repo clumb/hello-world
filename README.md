@@ -1,4 +1,4 @@
-## hello-world - A place to store ideas, resources and share things with others
+## hello-world - a place to store ideas, resources and share things with others
 
 I'm interested in learning how to use GitHub to make it easier to share projects with colleagues who are less familiar with R.
 
